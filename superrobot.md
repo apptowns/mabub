@@ -2,7 +2,7 @@
 <table>
     <body>
         <tr>
-            <td valign = top valign = top align = center>
+            <td valign = top>
                 <img src = "image/window.png" width = 30%></br>
             </td>
             <td valign= top>
