@@ -3,7 +3,7 @@
 <body>
 <tr>
 <td valign = top>
-<img src = "image/window.png" width = 30%></br>
+<img src = "image/window10.png" width = 30%></br>
 </td>
 <td valign= top>
                 
