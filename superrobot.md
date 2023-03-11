@@ -6,8 +6,8 @@
                 <img src = "image/window.png" width = 30%></br>
             </td>
             <td valign= top>
-    
-1) 레벨 : 로보트 레벨 
+                
+                1) 레벨 : 로보트 레벨 
 2) 골드 : 최대 골드 수량 
 3) 다이아 : 최대 다이아 수량
 4) 게임속도 : 광고보고 게임 속도 2배
@@ -26,11 +26,14 @@
         - 보스 던전</br>
         - 골드 던전</br>
         - 강도단 아치트 습격</br>
-            
+                
+                
             </td>
         </tr>
     </body>
-</table>
+</table>    
+
+ 
 
 ## UI 가이드 (중단부)
 <table><body><tr><td valign = top><img src = "image/window.png"></br></td> 
