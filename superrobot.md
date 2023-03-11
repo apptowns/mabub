@@ -39,9 +39,9 @@
         <body>
     <tr>
         <td valign = top>
-            <img src = "image/window2.png"></br>   
-            * 강화 UI   </br>
-        </td>
+            <img src = "image/window.png"></br>   
+            * 기본 UI   </br>
+        </td> 
         <td valign= top>
     
 16) 하이드 버튼 : 강화 메뉴가 하이드 된다. 
@@ -68,9 +68,10 @@
 <table>
 <body>
 <tr>
-<td valign = top width = "33%">
-<img src = "image/window2.png"></br> 
-</td>
+        <td valign = top>
+            <img src = "image/window.png"></br>   
+            * 기본 UI   </br>
+        </td> 
 <td valign= top>
     
 23) 마차 </br>
@@ -92,9 +93,10 @@
 <table>
 <body>
 <tr>
-<td valign = top>
-<img src = "image/window2.png"></br> 
-</td>
+        <td valign = top>
+            <img src = "image/window.png"></br>   
+            * 기본 UI   </br>
+        </td> 
 <td valign= top>
     
 24) 동료 </br>
@@ -146,9 +148,10 @@
 <table>
 <body>
 <tr>
-<td valign = top width ="33%">
-<img src = "image/window20.png"></br> 
-</td>
+        <td valign = top>
+            <img src = "image/window.png"></br>   
+            * 기본 UI   </br>
+        </td> 
 <td valign= top>
     
 26) 여객 </br>      
@@ -176,9 +179,10 @@
 <table>
 <body>
 <tr>
-<td valign = top width = "33%">
-<img src = "image/window10.png"></br> 
-</td>
+        <td valign = top>
+            <img src = "image/window.png"></br>   
+            * 기본 UI   </br>
+        </td> 
 <td valign= top>
     
 27) 상점</br>
