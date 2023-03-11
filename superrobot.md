@@ -1,12 +1,7 @@
 ## UI 가이드 (상단부)
 <table>
-        <body>
-    <tr>
-        <td valign = top>
-            <img src = "image/window.png"></br>   
-            * 기본 UI   </br>
-        </td> 
-        <td valign= top>
+<body><tr><td valign = top><img src = "image/window.png"></br></td>
+<td valign= top>
     
 1) 레벨 : 로보트 레벨 
 2) 골드 : 최대 골드 수량 
@@ -29,20 +24,11 @@
         - 강도단 아치트 습격</br>
          
       
-</td>
-</tr> 
-</body>
-</table>
+</td></tr></body></table>
 
 ## UI 가이드 (중단부)
-<table>
-        <body>
-    <tr>
-        <td valign = top>
-            <img src = "image/window.png"></br>   
-            * 기본 UI   </br>
-        </td> 
-        <td valign= top>
+<table><body><tr><td valign = top><img src = "image/window.png"></br></td> 
+<td valign= top>
     
 16) 하이드 버튼 : 강화 메뉴가 하이드 된다. 
 17) 동료 윈도우 : 최대 4인
@@ -58,10 +44,7 @@
 22) 강화 버튼들 (공격, 방어)            
         - 아이콘, 타이틀, 강화 비용및 관련 수치
       
-</td>
-</tr> 
-</body>
-</table>
+</td></tr></body></table>
 
 ## UI 가이드 - 마차
 
